@@ -1,0 +1,170 @@
+{
+  "input": "C:\\Users\\arias\\Downloads\\informe-tecnico-corregido.docx",
+  "fonts_by_char_count": {
+    "ADLaM Display": 194
+  },
+  "direct_run_formatting_runs": 121,
+  "direct_paragraph_formatting_paragraphs": 152,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 4,
+      "text": "INSTITUTO SUPEROR DEL PROFESORADO DE PASCANAS",
+      "style": "Normal"
+    },
+    {
+      "para_index": 7,
+      "text": "ACTIVIDAD: PROYECTO 4\nDISTRIBUIDORA",
+      "style": "Normal"
+    },
+    {
+      "para_index": 58,
+      "text": "Clase",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 59,
+      "text": "Responsabilidad",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 72,
+      "text": "Algoritmo",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 73,
+      "text": "Mejor caso",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 74,
+      "text": "Promedio",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 75,
+      "text": "Peor caso",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 76,
+      "text": "Espacio",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 97,
+      "text": "n",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 98,
+      "text": "Generar",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 99,
+      "text": "Copiar \u00edndice",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 100,
+      "text": "Ordenar \u00edndice",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 101,
+      "text": "Copiar selecci\u00f3n",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 102,
+      "text": "Copiar merge",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 121,
+      "text": "n",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 122,
+      "text": "Lineal existe",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 123,
+      "text": "Binaria existe",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 124,
+      "text": "Lineal ausente",
+      "style": "Table Paragraph"
+    },
+    {
+      "para_index": 125,
+      "text": "Binaria ausente",
+      "style": "Table Paragraph"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "INSTITUTO SUPEROR DEL PROFESORADO DE PASCANAS",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "MATERIA: PROGRAMACION 2",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 4,
+        "run_text": "INSTITUTO",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "SUPEROR",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": " ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "DEL PROFESORADO DE PASCANAS",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
